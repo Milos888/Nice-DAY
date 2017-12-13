@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Hello world!</title>
+
+</head>
+<body>
+    <div class="one">
+        <h1>Это заголовок</h1>
+        <p>А это простой параграф. Он содержит изображение <img src="img/1.jpg">, а также 
+            гиперсссылку на <a href="https://www.ukr.net/" target="_blank">сайт </a></p>
+    </div>    
+        
+
+    
+</body>
+</html>
